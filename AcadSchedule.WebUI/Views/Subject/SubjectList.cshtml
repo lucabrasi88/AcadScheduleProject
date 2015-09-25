@@ -1,0 +1,16 @@
+﻿@model AcadSchedule.WebUI.Models.SubjectsListViewModel
+
+@{
+    ViewBag.Title = "Lista przedmiotów";
+}
+
+@foreach (var p in Model.Subjects)
+{
+    <div class="item">
+        <h3 class="myButton">@p.Name</h3>
+    </div>
+}
+
+<div class="pager">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("SubjectList", new { page = x }))
+</div>
