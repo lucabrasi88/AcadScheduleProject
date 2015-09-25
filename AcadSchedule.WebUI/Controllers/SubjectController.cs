@@ -12,7 +12,7 @@ namespace AcadSchedule.WebUI
     public class SubjectController : Controller
     {
         private ISubjectRepository subRepository;
-        public int PageSize = 6;
+        public int PageSize = 10;
 
         public SubjectController(ISubjectRepository subjectRepository)
         {

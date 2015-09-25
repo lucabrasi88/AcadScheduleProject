@@ -4,11 +4,9 @@
     ViewBag.Title = "Lista przedmiotów";
 }
 
-@foreach (var p in Model.Subjects)
+@foreach (var s in Model.Subjects)
 {
-    <div class="item">
-        <h3 class="myButton">@p.Name</h3>
-    </div>
+    Html.RenderPartial("SubjectsPartialView", s);
 }
 
 <div class="pager">

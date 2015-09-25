@@ -8,3 +8,13 @@ C:\Users\Luk\documents\visual studio 2012\Projects\AcadSchedule\AcadSchedule.Dom
 C:\Users\Luk\documents\visual studio 2012\Projects\AcadSchedule\AcadSchedule.Domain\bin\Debug\EntityFramework.xml
 C:\Users\Luk\documents\visual studio 2012\Projects\AcadSchedule\AcadSchedule.Domain\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Luk\Documents\Visual Studio 2012\Projects\AcadSchedule\AcadSchedule.Domain\obj\Debug\AcadSchedule.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\bin\Debug\AcadSchedule.Domain.dll.config
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\bin\Debug\AcadSchedule.Domain.dll
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\bin\Debug\AcadSchedule.Domain.pdb
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\obj\Debug\AcadSchedule.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\obj\Debug\AcadSchedule.Domain.dll
+C:\Users\Luk\Desktop\AcadScheduleProject\AcadSchedule.Domain\obj\Debug\AcadSchedule.Domain.pdb

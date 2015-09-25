@@ -88,3 +88,21 @@ textarea {
 	text-shadow:0px 1px 0px #ffffff;
 }
 
+BODY { font-family: Cambria, Georgia, "Times New Roman"; margin: 0; }
+DIV#header DIV.title, DIV.item H3, DIV.item H4, DIV.pager A {
+    font: bold 1em "Arial Narrow", "Franklin Gothic Medium", Arial;
+}
+DIV#header { background-color: #444; border-bottom: 2px solid #111; color: White; }
+DIV#header DIV.title { font-size: 2em; padding: .6em; }
+DIV#content { border-left: 2px solid gray; margin-left: 13em; padding: 1em; }
+DIV#subjects { float: left; width: 12em; padding: .5em; }
+
+DIV.pager { text-align:right; border-top: 2px solid silver;
+    padding: .5em 0 0 0; margin-top: 1em; }
+DIV.pager A { font-size: 1.1em; color: #666; text-decoration: none;
+      padding: 0 .4em 0 .4em; }
+DIV.pager A:hover { background-color: Silver; }
+DIV.pager A.selected { background-color: #353535; color: White; }
+
+
+
